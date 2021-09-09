@@ -259,6 +259,7 @@ section.main.location, .location .container {
 
 section.main.location {
     flex-direction: column;
+    padding-bottom: calc(var(--gap) * 2);
 }
 
 section.main.location h2 {
