@@ -73,7 +73,7 @@ html {
 }
 
 header, section.main, footer .yellow {
-    width: 100vw;
+    /* width: 100vw; */ /* this seems to cause horizontal scrolling */
     padding: 0 calc(var(--gap) * 4);
 }
 
