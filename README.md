@@ -1,3 +1,3 @@
-# Dönertella
+# Dönertella 🥙
 
-Click [here](https://donatella.netlify.app/) for live demo!
+*Click [here](https://donatella.netlify.app/) for live demo!*
